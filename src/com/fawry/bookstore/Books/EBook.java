@@ -21,7 +21,7 @@ public class EBook extends Book implements Buyable {
     @Override
     public double buy(int quantity, String email, String address) {
         if (quantity <= 0) {
-            throw new IllegalArgumentException("Quantum Bookstore: Quantity must be positive");
+            throw new IllegalArgumentException("Quantity must be positive");
         }
         MailService.sendEmail(this, email);
         //System.out.println("You have purchased the Ebook: " + getTitle());
