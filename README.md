@@ -2,13 +2,13 @@
 
 ## OutPut
 ### Add Book
-![Add Book](images/add.jpeg)
+![Add Book](add.jpeg)
 
 ### Success Process for Buying Book
-![Buy Book Step 1](images/buy1.jpeg)
+![Buy Book Step 1](buy1.jpeg)
 
 ### Falild Process for Buying Book
-![Buy Book Step 2](images/buy2.jpeg)
+![Buy Book Step 2](buy2.jpeg)
 
 ### Remove Outdated Books
-![Remove Book](images/remove.jpeg)
+![Remove Book](remove.jpeg)
