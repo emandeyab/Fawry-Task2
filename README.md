@@ -7,7 +7,7 @@
 ### Success Process for Buying Book
 ![Buy Book Step 1](buy1.jpeg)
 
-### Falild Process for Buying Book
+### Failed Process for Buying Book
 ![Buy Book Step 2](buy2.jpeg)
 
 ### Remove Outdated Books
